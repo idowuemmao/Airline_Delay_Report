@@ -3,6 +3,8 @@
 ## **Project Overview**  
 The **Airline Delay Analysis Report** provides a data-driven evaluation of airline and airport performance, focusing on delays, cancellations, and on-time rates. Built using **Power BI**, this interactive dashboard offers **real-time insights** into airline delays, helping aviation stakeholders—including airlines, airport authorities, and regulators—identify bottlenecks, improve scheduling, and enhance customer experience.  
 
+##[Explore Project Here](https://app.powerbi.com/view?r=eyJrIjoiNzEzNTBkYTEtMmI0Ni00ZGIzLTkxMGQtNTY1ZTgyOGVjNTRmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+
 ## **Key Business Objectives**  
 ✈ **Optimize Airline Operations** – Identify carriers with high delay rates and pinpoint operational inefficiencies.  
 🏢 **Improve Airport Performance** – Understand airport-specific delay causes to improve infrastructure planning.  
